@@ -27,7 +27,7 @@ var loadTasks = function() {
       toDo: [],
       inProgress: [],
       inReview: [],
-      done: []
+      completed: []
     };
   }
 
